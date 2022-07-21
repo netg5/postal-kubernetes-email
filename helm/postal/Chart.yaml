@@ -1,11 +1,11 @@
 name: postal
-version: 2.0.0
-home: https://github.com/linkyard/postal-kubernetes
+version: 2.0.1
+home: https://github.com/netg5/postal-kubernetes-email.git
 description: A complete and fully featured mail server
 keywords:
   - postal
 sources:
-  - https://github.com/linkyard/postal-kubernetes
+  - https://github.com/netg5/postal-kubernetes-email.git
 maintainers:
   - name: Ferdinand Hübner
     email: ferdinand.huebner@linkyard.ch
